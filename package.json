@@ -1,0 +1,17 @@
+{
+  "name": "LoveMyGfinJS",
+  "version": "1.0.0",
+  "description": "A Node application that will automatically send my girlfriend cute messages ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.7.2",
+    "dotenv": "^8.2.0",
+    "twilio": "^3.39.1"
+  }
+}
