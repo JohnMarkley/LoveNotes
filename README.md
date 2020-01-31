@@ -3,5 +3,7 @@ Node.js server app that runs a cron job on a regular interval to send my girlfri
 
 ## Built with 
 Twilio.com - Texting API Service
+
 Node.js - Backend
+
 Hosted on a digital ocean droplet
